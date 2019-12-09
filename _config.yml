@@ -1,6 +1,2 @@
 title: MIT Libraries Developer Documentation
-
-remote_theme: mitlibraries/mitlibraries-jekyll
-
-plugins:
-  - jemoji
+theme: jekyll-theme-cayman
